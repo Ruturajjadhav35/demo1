@@ -1,4 +1,5 @@
 # demo1
 Machine Learning Repo
 <br>
-Author- Ruturaj Jadhav
+Author- Ruturaj Jadhav(QMUL)
+
